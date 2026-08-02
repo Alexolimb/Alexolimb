@@ -11,7 +11,7 @@ Seville, Spain (CET) · Working language: English · Open to remote roles and co
 
 | If you want to… | Open this | Time |
 |---|---|---|
-| **See a live site I built** | **[englishviktoriia.com](https://github.com/Alexolimb/englishviktoriia)** — a real client's site, built end to end | 1 min |
+| **See a site I built** | **[englishviktoriia](https://github.com/Alexolimb/englishviktoriia)** — a real client's landing page: pastel 3D world you fly through as you scroll, two languages, built end to end | 1 min |
 | **Read my code** | **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** — small, clean, zero dependencies, 22 tests. Clone it and run `npm test`: no install needed | 5 min |
 | **See a full product** | **[Polaris](https://github.com/Alexolimb/Polaris)** — Flutter app, 255 tests, real architecture decisions written down in the README | 10 min |
 | **Know what I'm actually best at** | The section below: **83 automation workflows and 24 bots running 24/7**, built and maintained by one person | 2 min |
@@ -75,7 +75,7 @@ range; happy to walk through any of them, or open one up, on a call.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[englishviktoriia](https://github.com/Alexolimb/englishviktoriia)** 🟢 | Live client site for an English tutor — design, copy, 3D scene, accessibility, deploy, domain. Built end to end | Next.js, React |
+| **[englishviktoriia](https://github.com/Alexolimb/englishviktoriia)** 🟢 | Client landing page for an English tutor — pastel 3D world the camera flies through as you scroll, two languages, accessibility fixed to WCAG contrast. Design, copy and build, end to end | JS, Three.js |
 | **Web studio / MOYA demo** 🔒 | Flagship template for small-business sites with 3D and motion, plus a demo case for a Seville brunch spot. Fixed the things that actually lose clients: an empty page without JS, link previews with no image, a broken 3D scene | Next.js, R3F |
 | **Evy Panel** 🔒 | Automation panel inside Adobe Premiere Pro: live subtitle translation, moment finding, multi-camera cutting, audio, markers and folders — to a studio's exact standards. **11 of 15 editing steps automated**, tested on real client footage | UXP panel, JS |
 
