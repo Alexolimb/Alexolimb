@@ -99,7 +99,7 @@ range; happy to walk through any of them, or open one up, on a call.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** 🟢 live | Client landing page for an English tutor — pastel 3D world the camera flies through as you scroll, two languages, accessibility fixed to WCAG contrast. Design, copy and build, end to end | JS, Three.js |
+| **[englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** 🟢 live | Landing page for an English tutor — pastel 3D world the camera flies through as you scroll, two languages, accessibility fixed to WCAG contrast. Design, copy and build, end to end | JS, Three.js |
 | **Web studio / MOYA demo** 🔒 | Flagship template for small-business sites with 3D and motion, plus a demo case for a Seville brunch spot. Fixed the things that actually lose clients: an empty page without JS, link previews with no image, a broken 3D scene | Next.js, R3F |
 | **Evy Panel** 🔒 | Automation panel inside Adobe Premiere Pro: live subtitle translation, moment finding, multi-camera cutting, audio, markers and folders — to a studio's exact standards. **11 of 15 editing steps automated**, tested on real client footage | UXP panel, JS |
 
