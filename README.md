@@ -109,6 +109,12 @@ range; happy to walk through any of them, or open one up, on a call.
 
 ## How I work
 
+**I build with AI, and I'd rather you knew that up front.** I'm not a developer who types every
+line — I direct AI agents against written specs and I verify what comes back. That's enough to
+ship and operate the automation, integrations and LLM plumbing on this page, and it's why one
+person can run this much. It is not enough to hand me your product codebase, and I won't pretend
+otherwise. What I actually own is the part after launch: it runs, it's watched, and it gets fixed.
+
 **Agentically, not by prompting and hoping.** Written specs, persistent project context, several
 agent tracks in parallel, and verification of output rather than trust in it. Every project carries
 its own written handbook — not for the agents, but because it's the only way to pick a project back
@@ -123,6 +129,9 @@ Every one of my scrapers and agents has been graded against work I first did by 
 ---
 
 ## Stack
+
+What these projects are built with. I work in all of it daily with AI doing the typing — deep on
+n8n, agents and keeping things alive, working knowledge on the rest.
 
 **Automation & AI** — n8n (self-hosted, production) · LLM APIs (Anthropic, Gemini, Groq, Cerebras) ·
 agents & tool calling · RAG · Ollama & local models · Whisper · Telegram Bot API
