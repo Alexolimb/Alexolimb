@@ -5,7 +5,7 @@
 **AI Automation Engineer** — I build systems that run by themselves, and I keep them running.
 
 Seville, Spain (CET) · Working language: English · Open to remote roles and contract work
-📫 **worknoworktowork@gmail.com**
+📫 **workinaiengineering@gmail.com**
 
 ![n8n](https://img.shields.io/badge/n8n-self--hosted%20in%20production-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -75,15 +75,15 @@ range; happy to walk through any of them, or open one up, on a call.
 | **Outreach Agent** 🔒 | A worker that runs 24/7: walks Google Maps with a headless browser, audits business websites with screenshots, filters out those who don't need one, finds contact emails **only from the business's own site**, drafts a letter about that site's specific weakness, and brings it to me for signature. Verified against my own manual work: 4/4 correct addresses, 0 invented | TypeScript, Node, Playwright |
 | **Personal agent fleet** 🔒 | Six personal AI agents living on the server (training, sleep, nutrition, guardian, self-development, teacher) with a shared Telegram bot. They message first, on their own schedule | n8n, LLM APIs |
 | **Orbita — status board** 🔒 | Shows ~30 projects as tiles with an honest colour each. Checks what a human would actually see, not what the server claims. Failure history, "check everything now" button, readable from a phone | TypeScript, Node |
-| **Model Council** 🔒 | A group chat where four LLMs from different vendors debate a question by name while one model chairs it — opens, steers, and writes the verdict | n8n, multi-provider |
+| **Model Council** 🔒 | A group chat where eight LLMs from different vendors debate a question by name while one model chairs it — opens, steers, and writes the verdict | n8n, multi-provider |
 | **Social scanner** 🔒 | Personal Instagram analyst over the official data export — saves, likes, topics — with a weekly written breakdown | n8n, web dashboard |
 
 ### Products & apps
 
 | Project | What it is | Stack | Tests |
 |---|---|---|---|
-| **[Polaris](https://github.com/Alexolimb/Polaris)** 🟢 | Investment simulator and academy: virtual $10k portfolio, charts, dividends, AI mentor, 30 lessons, 3 languages. Money as integer cents, trades atomic by design | Flutter | **255** |
-| **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** 🟢 | Its backend — REST market data and an SSE-streaming LLM mentor with **zero external dependencies**. Runs and tests anywhere without `npm install` | Node.js | **22** |
+| **[Polaris](https://github.com/Alexolimb/Polaris)** 🟢 | Investment simulator and academy: virtual $10k portfolio, charts, dividends, AI mentor, 30 lessons, 3 languages. Money as integer cents, trades atomic by design | Flutter | **338** |
+| **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** 🟢 | Its backend — REST market data and an SSE-streaming LLM mentor with **zero external dependencies**. Runs and tests anywhere without `npm install` | Node.js | **41** |
 | **NEXUS** 🔒 | Learning app that takes someone from zero to competent in code and AI — **18 chapters, 180 lessons, 162 coding exercises**, real code execution in a sandbox, spaced repetition, XP and streaks. Built for everyone from kids to pensioners | Electron, JS | **95** |
 | **Promptmaker** 🔒 | Desktop app: one sentence about what you want → smart follow-up questions → a single well-formed prompt for the target model (13 targets: Claude, ChatGPT, Midjourney, Sora…) | Electron, TS | **194** |
 | **Ami Pult** 🔒 | Desktop app that finds businesses without websites anywhere in the world (OpenStreetMap), scores them 0–100, and drafts a personal email to each in its own language using local models | Electron, TS | **143** |
