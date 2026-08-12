@@ -1,3 +1,5 @@
+![Oleksii Zahlukha — AI Automation Engineer](assets/banner.png)
+
 # Hi, I'm Oleksii 👋
 
 **AI Automation Engineer** — I build systems that run by themselves, and I keep them running.
@@ -5,27 +7,45 @@
 Seville, Spain (CET) · Working language: English · Open to remote roles and contract work
 📫 **worknoworktowork@gmail.com**
 
+![n8n](https://img.shields.io/badge/n8n-self--hosted%20in%20production-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-local%20models-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-agentic%20workflow-D97757?style=flat-square&logo=claude&logoColor=white)
+
 ---
 
 ## 👉 Short on time? Start here
 
 | If you want to… | Open this | Time |
 |---|---|---|
-| **See a site I built** | **[englishviktoriia](https://github.com/Alexolimb/englishviktoriia)** — a real client's landing page: pastel 3D world you fly through as you scroll, two languages, built end to end | 1 min |
-| **Read my code** | **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** — small, clean, zero dependencies, 22 tests. Clone it and run `npm test`: no install needed | 5 min |
-| **See a full product** | **[Polaris](https://github.com/Alexolimb/Polaris)** — Flutter app, 255 tests, real architecture decisions written down in the README | 10 min |
-| **Know what I'm actually best at** | The section below: **83 automation workflows and 24 bots running 24/7**, built and maintained by one person | 2 min |
+| **See a live site I built** | 🔗 **[alexolimb.github.io/englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** — a landing page I designed and built end to end for an English tutor. Scroll and the camera flies through a pastel 3D world. Two languages · [source](https://github.com/Alexolimb/englishviktoriia) | 1 min |
+| **Read my code** | **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** — small, clean, zero dependencies, 41 tests. Clone it and run `npm test`: no install needed | 5 min |
+| **See a full product** | **[Polaris](https://github.com/Alexolimb/Polaris)** — Flutter app, 338 tests, real architecture decisions written down in the README | 10 min |
+| **Know what I'm actually best at** | The section below: **103 automation workflows (74 live right now) and around 20 bots running 24/7**, built and maintained by one person | 2 min |
 
 Everything else on this page is private work — described here, and I'll walk you through any of it
 on a call.
+
+<a href="https://alexolimb.github.io/englishviktoriia/">
+  <img src="assets/site-englishviktoriia.png" alt="englishviktoriia — landing page with a 3D scene you scroll through" width="100%">
+</a>
+
+<sup>↑ **[alexolimb.github.io/englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** — live. A landing page for an English tutor: the camera flies through a pastel 3D world as you scroll. Design, copy and build, end to end, two languages, contrast fixed to WCAG. [Source](https://github.com/Alexolimb/englishviktoriia).</sup>
 
 ---
 
 ## What runs in production right now
 
-**A self-hosted n8n server** on my own Linux VPS — **83 active workflows and 24 Telegram bots**,
-24/7. Built and maintained alone: deployment, retries, credential rotation, and automatic failover
-between LLM providers when one goes down. Migrating agent workloads from paid APIs onto free tiers
+**A self-hosted n8n server** on my own Linux VPS — **74 active workflows out of 103 and around 20 Telegram bots**,
+24/7. Built and maintained alone: deployment, retries, credential rotation, and switching providers by hand when one goes down — automatic failover is not built yet. Migrating agent workloads from paid APIs onto free tiers
 cut the running cost to near zero without losing function.
 
 **A local AI stack on my own GPU** (RTX 5060) — 6 local LLMs via Ollama, Whisper transcription,
@@ -36,11 +56,15 @@ the quality difference is measurable.
 opens sites in a real browser, walks every n8n workflow, and listens for heartbeats from my desktop
 apps. On its first run it caught a dead API key that my previous alerting had missed.
 
+![How the content factory runs — pipeline diagram](assets/pipeline.png)
+
+<sup>The system I'd most like to be judged on — and the one that taught me the most by failing. Full story below and in conversation.</sup>
+
 ---
 
 ## Projects
 
-Most of these are private — products in development or client work. Listed so you can see the
+Most of these are private — products in development or work done for my day job. Listed so you can see the
 range; happy to walk through any of them, or open one up, on a call.
 
 ### Automation, agents & infrastructure
@@ -75,7 +99,7 @@ range; happy to walk through any of them, or open one up, on a call.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[englishviktoriia](https://github.com/Alexolimb/englishviktoriia)** 🟢 | Client landing page for an English tutor — pastel 3D world the camera flies through as you scroll, two languages, accessibility fixed to WCAG contrast. Design, copy and build, end to end | JS, Three.js |
+| **[englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** 🟢 live | Client landing page for an English tutor — pastel 3D world the camera flies through as you scroll, two languages, accessibility fixed to WCAG contrast. Design, copy and build, end to end | JS, Three.js |
 | **Web studio / MOYA demo** 🔒 | Flagship template for small-business sites with 3D and motion, plus a demo case for a Seville brunch spot. Fixed the things that actually lose clients: an empty page without JS, link previews with no image, a broken 3D scene | Next.js, R3F |
 | **Evy Panel** 🔒 | Automation panel inside Adobe Premiere Pro: live subtitle translation, moment finding, multi-camera cutting, audio, markers and folders — to a studio's exact standards. **11 of 15 editing steps automated**, tested on real client footage | UXP panel, JS |
 
