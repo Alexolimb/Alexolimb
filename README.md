@@ -29,7 +29,7 @@ Seville, Spain (CET) · Working language: English · Open to remote roles and co
 | **See a live site I built** | 🔗 **[alexolimb.github.io/englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** — a landing page I designed and built end to end for an English tutor. Scroll and the camera flies through a pastel 3D world. Two languages · [source](https://github.com/Alexolimb/englishviktoriia) | 1 min |
 | **Read my code** | **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** — small, clean, zero dependencies, 41 tests. Clone it and run `npm test`: no install needed | 5 min |
 | **See a full product** | **[Polaris](https://github.com/Alexolimb/Polaris)** — Flutter app, 338 tests, real architecture decisions written down in the README | 10 min |
-| **Know what I'm actually best at** | The section below: **103 automation workflows (74 live right now) and around 20 bots running 24/7**, built and maintained by one person | 2 min |
+| **Know what I'm actually best at** | The section below: **112 automation workflows (83 live right now) and around 20 bots running 24/7**, built and maintained by one person | 2 min |
 
 Everything else on this page is private work — described here, and I'll walk you through any of it
 on a call.
@@ -44,7 +44,7 @@ on a call.
 
 ## What runs in production right now
 
-**A self-hosted n8n server** on my own Linux VPS — **74 active workflows out of 103 and around 20 Telegram bots**,
+**A self-hosted n8n server** on my own Linux VPS — **83 active workflows out of 112 and around 20 Telegram bots**,
 24/7. Built and maintained alone: deployment, retries, credential rotation, and switching providers by hand when one goes down — automatic failover is not built yet. Migrating agent workloads from paid APIs onto free tiers
 cut the running cost to near zero without losing function.
 
