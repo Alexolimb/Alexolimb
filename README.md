@@ -7,6 +7,9 @@
 Seville, Spain (CET) · Working language: English · Open to remote roles and contract work
 📫 **workinaiengineering@gmail.com**
 
+🖥 **Portfolio — everything I have built, in one place: [alexolimb.github.io](https://alexolimb.github.io/)**
+_Sites, apps, automations and video tooling — 56 pieces of work, each with what it is, how it is built and what proves it. Twenty languages._
+
 ![n8n](https://img.shields.io/badge/n8n-self--hosted%20in%20production-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
