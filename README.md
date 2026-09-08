@@ -8,7 +8,7 @@ Seville, Spain (CET) · Working language: English · Open to remote roles and co
 📫 **workinaiengineering@gmail.com**
 
 🖥 **Portfolio — everything I have built, in one place: [alexolimb.github.io](https://alexolimb.github.io/)**
-_Sites, apps, automations and video tooling — 56 pieces of work, each with what it is, how it is built and what proves it. Twenty languages._
+_Sites, apps, automations and video tooling — 80 pieces of work, each with what it is, how it is built and what proves it. Twenty languages._
 
 ![n8n](https://img.shields.io/badge/n8n-self--hosted%20in%20production-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -32,7 +32,7 @@ _Sites, apps, automations and video tooling — 56 pieces of work, each with wha
 | **See a live site I built** | 🔗 **[alexolimb.github.io/englishviktoriia](https://alexolimb.github.io/englishviktoriia/)** — a landing page I designed and built end to end for an English tutor. Scroll and the camera flies through a pastel 3D world. Two languages · [source](https://github.com/Alexolimb/englishviktoriia) | 1 min |
 | **Read my code** | **[Polaris-server](https://github.com/Alexolimb/Polaris-server)** — small, clean, zero dependencies, 41 tests. Clone it and run `npm test`: no install needed | 5 min |
 | **See a full product** | **[Polaris](https://github.com/Alexolimb/Polaris)** — Flutter app, 338 tests, real architecture decisions written down in the README | 10 min |
-| **Know what I'm actually best at** | The section below: **112 automation workflows (83 live right now) and around 20 bots running 24/7**, built and maintained by one person | 2 min |
+| **Know what I'm actually best at** | The section below: **118 automation workflows (80 live right now) and 30 bots running 24/7**, built and maintained by one person | 2 min |
 
 Everything else on this page is private work — described here, and I'll walk you through any of it
 on a call.
@@ -47,7 +47,7 @@ on a call.
 
 ## What runs in production right now
 
-**A self-hosted n8n server** on my own Linux VPS — **83 active workflows out of 112 and around 20 Telegram bots**,
+**A self-hosted n8n server** on my own Linux VPS — **80 active workflows out of 118 and 30 Telegram bots**,
 24/7. Built and maintained alone: deployment, retries, credential rotation, and switching providers by hand when one goes down — automatic failover is not built yet. Migrating agent workloads from paid APIs onto free tiers
 cut the running cost to near zero without losing function.
 
@@ -77,7 +77,7 @@ range; happy to walk through any of them, or open one up, on a call.
 | **Content Factory** 🔒 | Autonomous content pipeline: trend radar → ideas → script → images, voice-over and music → video assembly (ffmpeg) → human approval in Telegram → publishing → metrics → weekly self-adjustment. Three brands running. Video generation moved onto my own GPU to keep it free | Python, systemd, Linux VPS |
 | **Outreach Agent** 🔒 | A worker that runs 24/7: walks Google Maps with a headless browser, audits business websites with screenshots, filters out those who don't need one, finds contact emails **only from the business's own site**, drafts a letter about that site's specific weakness, and brings it to me for signature. Verified against my own manual work: 4/4 correct addresses, 0 invented | TypeScript, Node, Playwright |
 | **Personal agent fleet** 🔒 | Six personal AI agents living on the server (training, sleep, nutrition, guardian, self-development, teacher) with a shared Telegram bot. They message first, on their own schedule | n8n, LLM APIs |
-| **Orbita — status board** 🔒 | Shows ~30 projects as tiles with an honest colour each. Checks what a human would actually see, not what the server claims. Failure history, "check everything now" button, readable from a phone | TypeScript, Node |
+| **Orbita — status board** 🔒 | Shows ~70 projects as tiles with an honest colour each. Checks what a human would actually see, not what the server claims. Failure history, "check everything now" button, readable from a phone | TypeScript, Node |
 | **Model Council** 🔒 | A group chat where eight LLMs from different vendors debate a question by name while one model chairs it — opens, steers, and writes the verdict | n8n, multi-provider |
 | **Social scanner** 🔒 | Personal Instagram analyst over the official data export — saves, likes, topics — with a weekly written breakdown | n8n, web dashboard |
 
